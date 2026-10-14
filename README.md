@@ -1,5 +1,7 @@
 # wbclient
 
+[![tests](https://github.com/ogkobz/wbclient/actions/workflows/tests.yml/badge.svg)](https://github.com/ogkobz/wbclient/actions/workflows/tests.yml)
+
 Клиент Wildberries Seller API на Python: карта доменов, разбор токена, соблюдение лимитов и понятные ошибки.
 
 Библиотека закрывает ту часть работы с API, которую иначе каждый раз пишешь заново, и не лезет в бизнес-логику — она у каждого продавца своя.
